@@ -1,0 +1,1 @@
+[{"from":"^/git-commit(\\/?.*)","to":"/posts/git-commit/$1","permanent":false},{"from":"^/running-cloudron(\\/?)","to":"/posts/running-cloudron/","permanent":false},{"from":"^/decentralize-yourself(\\/?)","to":"/posts/decentralize-yourself/","permanent":false},{"from":"^/feed.atom(\\/?)","to":"/rss/","permanent":false},{"from":"^/posts(\\/?)","to":"/","permanent":false}]
